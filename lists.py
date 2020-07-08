@@ -1,3 +1,4 @@
+print("Micky is awesome")
 print("learning python lists")
 
 
